@@ -8,6 +8,16 @@ Clone the repository wherever you like (e.g. ~/Projects/Stacks):
 git clone https://github.com/gsessums/Stacks.git
 ```
 
+## Usage
+Use the included Makefile:
+```bash
+make
+```
+To execute:
+```
+./stackArray
+```
+
 ## Credits
 Author: [Geoffrey Sessums](http://www.geoffreysessums.com)
 
