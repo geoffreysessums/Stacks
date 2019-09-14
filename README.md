@@ -1,27 +1,37 @@
-# Project: Stacks
-#### Description:
-Written in C, Stacks contains a implementation of a simple stack array.
+# Stacks
 
-## Installation:
-Clone the repository wherever you like (e.g. ~/Projects/Stacks):
-```bash
-git clone https://github.com/gsessums/Stacks.git
-```
+Geoffrey Sessums  
+Personal Project  
+Language: C  
+
+## Description
+
+Stacks contains a implementation of a simple stack array.
+
+
+## What I Learned
+
+How to implement a simple stack array.
+
+## Installation
+
+Clone the repository wherever you like (e.g. ~/Projects/Stacks):  
+`git clone https://github.com/gsessums/Stacks.git`
 
 ## Usage
-Use the included Makefile:
-```bash
-make
-```
-To execute:
-```
-./stackArray
-```
+
+Use the included Makefile:  
+`make`  
+
+To execute:  
+`./stackArray`  
 
 ## Credits
-Author: [Geoffrey Sessums](http://www.geoffreysessums.com)
+
+Author: Geoffrey Sessums
 
 ## License
+
 MIT License
 
 Copyright (c) 2017 Geoffrey Sessums
